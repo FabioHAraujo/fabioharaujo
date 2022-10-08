@@ -15,9 +15,9 @@ Meu primeiro contato com a programação é recente, porém, foi amor à primeir
 <img align="center" alt="FabioCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="center" alt="FabioLinux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 <img align="center" alt="FabioC++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="FabioApache" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line.svg">
-<img align="center" alt="FabioNGinx" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
-<img align="center" alt="FabioDebian" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+<img alt="FabioApache" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line.svg">
+<img alt="FabioNGinx" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+<img alt="FabioDebian" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
   
 ## Social:
 
