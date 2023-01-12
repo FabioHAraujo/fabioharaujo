@@ -19,6 +19,12 @@ Meu primeiro contato com a programação é recente, porém, foi amor à primeir
 <img alt="FabioNGinx" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
 <img alt="FabioDebian" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
   
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabioHAraujo}/count.svg" /></p> 
+<br>
+</div>
+  
 ## Social:
 
 <a href="https://www.linkedin.com/in/fabioharaujo//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
