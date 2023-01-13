@@ -1,10 +1,3 @@
-<head>
-<style type=text/css>
-  .logos{
-  display: inline-blocks;
-  }
-  </style>
-</head>
 ## Hello World! I'm Fábio H. Araújo 👨🏻‍💻
 
 Meu primeiro contato com a programação é recente, porém, foi amor à primeira vista. Sempre tive paixão por resolver problemas e por anos trabalhei fazendo justamente isso na posição de suporte técnico, porém na computação a minha liberade para resolver problemas é muito maior, e os problemas são infinitos, sou competitivo e não busco perder para desafios do cotidiano. Desafios me motivam e são o maior motivo de fazer o que faço. Busco como profissional aprender tudo que posso pelos lugares em que passo. Atualmente, trabalho como Suporte Técnico em uma Telecom, à qual fui contratado logo após a venda da empresa (também telecom) em que eu trabalhava, o que me faz acreditar que meu esforço e dedicação precedem o que as pessoa sabem de mim. Nunca paro, e como a roda da vida seguirei andando até o fim pelos meus sonhos. 
