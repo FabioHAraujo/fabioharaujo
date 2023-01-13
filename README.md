@@ -8,17 +8,23 @@ Meu primeiro contato com a programação é recente, porém, foi amor à primeir
 <div align="center">
   <a href="https://github.com/fabioharaujo">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioHAraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHAraujo&layout=compact&langs_count=7&theme=dark"/> -->
+<!--   <img height="180em" width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHAraujo&layout=compact&langs_count=7&theme=dark"/> 
 </div>
-
-<img align="center" alt="FabioHtml5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img align="center" alt="FabioCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img align="center" alt="FabioLinux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-<img align="center" alt="FabioC++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-<img alt="FabioApache" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line.svg">
-<img alt="FabioNGinx" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
-<img alt="FabioDebian" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+-->
+<style>
+  .logos{
+  display: inline-blocks;
+  }
   
+<div class="logos">
+  <img align="center" alt="FabioHtml5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="FabioCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="FabioLinux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="FabioC++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img alt="FabioApache" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-line.svg">
+  <img alt="FabioNGinx" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+  <img alt="FabioDebian" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+</div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabioHAraujo}/count.svg" /></p> 
