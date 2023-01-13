@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9E4ADCheight=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9e4adcheight=120&section=header"/>
 
 
 ## Hello World! I'm Fábio H. Araújo 👨🏻‍💻
