@@ -15,6 +15,7 @@ Meu primeiro contato com a programação é recente, porém, foi amor à primeir
   .logos{
   display: inline-blocks;
   }
+  </style>
   
 <div class="logos">
   <img align="center" alt="FabioHtml5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
