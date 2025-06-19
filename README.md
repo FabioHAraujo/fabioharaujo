@@ -52,7 +52,7 @@ A Brazilian full‑stack developer passionate about turning complex ideas into e
 
 | Project | Description |
 |---------|-------------|
-| [`ravena-ai`](https://github.com/moothz/ravena-ai) | AI‑powered assistant framework focused on modularity and developer experience |
+| [`ravena-ai`](https://github.com/moothz/ravena-ai) | AI‑powered assistant framework focused on modularity and developer experience. I'm currently contributing to this project by building general-purpose and fun utility features. |
 
 Contributions, issues, and feature requests are always welcome!
 
