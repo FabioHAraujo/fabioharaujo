@@ -1,5 +1,4 @@
-with open('/mnt/data/README.md', 'w', encoding='utf-8') as f:
-    f.write("""# Hello, I'm Fábio Henrique Araújo 🇧🇷
+# Hello, I'm Fábio Henrique Araújo 🇧🇷
 
 A Brazilian full‑stack developer passionate about turning complex ideas into elegant, scalable solutions. I work mainly with **React (Next.js)** on the front‑end and **Node.js, Django, and Go** on the back‑end, all orchestrated with **Docker** and running in the cloud.
 
@@ -61,8 +60,8 @@ Contributions, issues, and feature requests are always welcome!
 
 ## 📊 GitHub Metrics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moothz&layout=compact&hide=html,css)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moothz&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioHAraujo&layout=compact&hide=html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabioHAraujo&show_icons=true&count_private=true)
 
 ---
 
@@ -70,4 +69,4 @@ Contributions, issues, and feature requests are always welcome!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabioharaujo/)  
 📧 **Email:** [contato@fabioharaujo.com.br](mailto:contato@fabioharaujo.com.br)  
-🌐 **Website & Portfolio:** <https://fabioharaujo.com.br>""")
+🌐 **Website & Portfolio:** <https://fabioharaujo.com.br>
